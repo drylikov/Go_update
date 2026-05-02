@@ -1,4 +1,3 @@
-
 ## Go update.
 
 Package update provides tooling to auto-update binary releases
